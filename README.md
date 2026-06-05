@@ -13,6 +13,7 @@ Desde la campaña presidencial de 2025 el gasto fiscal y la deuda pública se ha
 - ¿Cómo se relaciona la deuda pública con los ingresos y egresos del estado?
 - ¿Por qué es preocupante que aumente la deuda pública? ¿Por qué se estima un endeudamiento bruto máximo prudente del 45%?
 - ¿Qué diferencia hay entre la deuda bruta y neta y porqué se suele comunicar solo la deuda bruta?
+- ¿Por qué se suele referir solo a la deuda pública del Gobierno Central? ¿Qué pasa con la deuda del Banco Central y las empresas públicas? 
 - ¿Cuánto es el porcentaje de endeudamiento que tiene Codelco en relación al endeudamiento del Gobierno Central?
 - ¿Cómo se relaciona la deuda pública con el PIB y el crecimiento económico?
 
